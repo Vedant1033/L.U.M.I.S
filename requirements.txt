@@ -1,0 +1,17 @@
+youtube_transcript_api
+google-generativeai
+python-dotenv
+pathlib
+streamlit
+Pillow
+PyPDF2
+moviepy==1.0.3
+opencv-python
+pyautogui
+SpeechRecognition
+pywinauto
+keyboard
+pyaudio
+imageio[ffmpeg]
+pdfplumber
+keyboard

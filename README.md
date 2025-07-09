@@ -1,4 +1,4 @@
-# Lumis - Unified Multimodal AI Assistant for Developers
+# Lumis -LLM Based Unified Multimodal Intelligent System
 
 **Lumis** is an advanced AI-powered platform designed to assist developers in real-time by analyzing screen activity, code, and voice inputs. It intelligently detects coding errors, provides immediate solutions, and enhances productivity through a multimodal interaction experience.
 

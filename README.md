@@ -43,13 +43,6 @@ The system detects on-screen errors, provides real-time code corrections, and ex
 
 
 
----
-
-## 📄 License
-
-MIT License. See `LICENSE` file for details.
-
-
 ## 📦 Installation
 
 1. **Clone the repository**  

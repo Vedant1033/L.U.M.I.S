@@ -53,5 +53,5 @@
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/yourusername/lumis.git
-   cd lumis
+   git clone https://github.com/Vedant1033/L.U.M.I.S.git
+  

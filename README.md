@@ -1,53 +1,54 @@
 # Lumis -LLM Based Unified Multimodal Intelligent System
 
-**Lumis** is an advanced AI-powered platform designed to assist developers in real-time by analyzing screen activity, code, and voice inputs. It intelligently detects coding errors, provides immediate solutions, and enhances productivity through a multimodal interaction experience.
+**L.U.M.I.S** (Language Understanding & Multimodal Intelligent System) is an AI-powered multimodal assistant that integrates real-time screen analysis, audio interactions, and Retrieval-Augmented Generation (RAG) to assist users with coding, information extraction, and intelligent automation.
+
+The system detects on-screen errors, provides real-time code corrections, and extracts key insights from videos, documents, and websites.
 
 ---
 
-## 🚀 Key Features
+## 🌟 Features
 
-- 🧠 **Multimodal Interaction**  
-  Integrates video, audio, and text inputs to understand developer context with precision.
+### 💻 Real-Time Code Assistance
+- Uses **screen recording**, **mouse tracking**, and **audio analysis** to detect errors.
+- Provides **instant corrections** and **debugging suggestions** for code.
 
-- ⚙️ **Real-time Code Error Detection**  
-  Captures screen recordings and pinpoints errors in code dynamically using OCR and AI.
+### 🧠 Multimodal AI Capabilities
+- Supports **text**, **audio**, and **video input** for enhanced AI interactions.
+- **Retrieval-Augmented Generation (RAG)** improves accuracy and relevance.
 
-- 💬 **AI Assistant Panel**  
-  Offers intelligent suggestions, error explanations, and instant code fixes via LLMs like Gemini and OpenAI.
+### 📄 Content Summarization & Insights
+- Summarizes **documents**, **research papers**, and **long texts**.
+- Extracts **key insights**, **timestamps**, and **highlights** from **YouTube videos** and **websites**.
 
-- 🖱️ **Mouse-Based Error Pinning**  
-  Enables developers to mark problem areas on-screen for detailed analysis and feedback.
+### 🔍 Intelligent Query Processing
+- Enhances **information retrieval** with **context-aware AI** responses.
+- Supports **question-answering** and **topic-based search** using **NLP**.
 
-- 🔗 **RAG (Retrieval-Augmented Generation)**  
-  Summarizes documents, retrieves context-aware answers from uploaded PDFs, Word, and text files.
-
-- 🧾 **Transcription System**  
-  Converts real-time audio and screen videos into text using LLM-based transcription.
-
-- 🎥 **YouTube & Website Transcription**  
-  Extracts and summarizes content from YouTube videos and webpages.
-
-- 📄 **Multi-format File Support**  
-  Parses and processes PDFs, DOCX, CSV, TXT, and images for instant summarization and Q&A.
-
+### 📈 User Feedback & Continuous Improvement
+- Collects **user feedback** to refine query handling and response accuracy.
+- Learns from interactions to improve **personalization** and **efficiency**.
 
 
 ---
 
-## 🧩 Tech Stack
+## 📌 Use Cases
 
-| Layer              | Tools & Technologies                              |
-|--------------------|---------------------------------------------------|
-| **Frontend**       | Streamlit (Django for web port), HTML, JS         |
-| **Backend**        | Python, FastAPI (optional), Django                |
-| **Computer Vision**| OpenCV                                            |
-| **AI/LLM**         | Google Gemini 1.5 Pro, OpenAI GPT-4/4o            |
-| **Transcription**  | Whisper, Gemini                                   |
-| **Storage**        | MySQL                                             |
-| **OCR**            | Tesseract / EasyOCR                               |
-| **Screen Capture** | PyAutoGUI, MoviePy, OpenCV                        |
+- Real-time coding assistance and bug fixing
+- Summarizing research papers, legal docs, and web content
+- Intelligent question answering from documents and videos
+- Educational tutorials and video analysis for learners
+- Developer productivity enhancement through automation
 
 ---
+
+
+
+---
+
+## 📄 License
+
+MIT License. See `LICENSE` file for details.
+
 
 ## 📦 Installation
 
